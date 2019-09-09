@@ -20,7 +20,7 @@
 }
 
 .contact_down {
-  background-image: url(lagmap.jpg);
+  background-image: url('lagmap.jpg');
   text-align: center;
   color: teal;
   padding: 40px;
