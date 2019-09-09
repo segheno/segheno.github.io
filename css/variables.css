@@ -19,14 +19,6 @@
   color: white;
 }
 
-.contact_down {
-  background-image: url('lagmap.jpg');
-  text-align: center;
-  color: teal;
-  padding: 40px;
-  height: 350px;
-}
-
 .exnesting h4 {
   color: teal;
 }
